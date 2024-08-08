@@ -1,5 +1,8 @@
 FRONTEND PROJECT - FULL RESPONSIVE <br>
-USING HTML CSS JAVASCRIPT FULL RESPONSIVE WEBSITE - TWO GOOD CO. <br>
+ RESPONSIVE WEBSITE - TWO GOOD CO. <br>
+<br>
+USING HTML CSS JAVASCRIPT GSAP LOCOMOTIVE.JS 
+ <br>
 project live link:-https://anurag-singh17.github.io/Two-Good-Co.-/ <br>
  <br>
   <br>
